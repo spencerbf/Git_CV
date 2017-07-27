@@ -1,8 +1,8 @@
 ## Spencer Barton-Fisher
 
-I am a hardworking, ambitious individual. I welcome new challenges  which is one of the main reasons I have enrolled at Makers Academy. The majority of my career has been within the financial sector where I have worked for two of the largest inter dealer broking companies in the world. I had one year out of finance which is when my interest in the technology industry flourished. I worked for a specialist IT recruitment company focusing on backend development as well as SAP specialist.
+I am a confident ambitious individual. My interest and passion for the Tech industry started when I left the finance sector and moved into IT recruitment for around 18 months. I welcome new challenges which is one of the main reasons I enrolled at Makers Academy. The majority of my career has been within the financial sector where I have worked for two of the largest inter-dealer brokers in the world.
 
-Once I have completed the Makers Academy I will be looking for a Junior Developer role where I can continue to learn on a daily basis within an organisation that loves developing great software. I would love to work for a company who will allow me to develop my skill set on a regular basis, working with the latest technologies and really allowing me to grow as a developer.
+Now that I have completed Makers Academy, I am looking for a Junior Developer role. I want to continue to learn on a daily basis within an organisation that loves developing great software. I would love to work for a company who will allow me to develop my skill set on a regular basis, working with the latest technologies and really allowing me to grow as a developer.
 
 ## Skills
 
@@ -14,21 +14,7 @@ Once I have completed the Makers Academy I will be looking for a Junior Develope
 - Teamwork
 - Driven
 
-Throughout my career I have worked in teams both in the finance sector and in IT recruitment. I work well both within a team and as a standalone individual using my initiative to complete the task at hand. I feel just as comfortable when acting as an integral member of a team and also when given the leadership position to having good experience within both roles. I feel that I have extremely strong communication skills which have been developed by working in high pressured environments. I work very well under pressure. In all of my roles I have worked towards tight deadlines within target driven environments.
-
-#### FSA Qualifications:
-
-- FSA Financial Regulations
-- FSA Securities
-
-#### Caterham High School and 6th form 2001– 2007
-
-- 9 GCSEs- Grade A-C (Including - Maths, English and Science)
-
-#### AS Level:
-
-- Business 		Grade A
-- PE B-Tech		Grade Merit
+Throughout my career I have worked in teams. I work well both within a team and as a standalone individual, using my initiative to complete the task at hand. I feel that I have extremely strong communication skills which have been developed by working in high pressured environments. I work very well under pressure. In all of my roles I have worked towards tight deadlines within target driven environments.
 
 ## Experience
 
@@ -36,7 +22,7 @@ Throughout my career I have worked in teams both in the finance sector and in IT
 #### May 2017 - July 2017
 
 #### Company:		Makers Academy
-#### Position:		Full Stack Developer in Training
+#### Position:		Full Stack Developer
 
 Makers Academy is Europe's leading Web Developer bootcamp. 
 Focussed on test driven development (TDD) in object oriented programming (OOP) using agile methodologies and git workflow.
@@ -76,9 +62,7 @@ Focussed on test driven development (TDD) in object oriented programming (OOP) u
 - Writing up job specs
 - Updating in-house database with new candidate skills and requirements
 - Marketing jobs to candidates
-#### Key Achievements:
-- 19 deals in my first 6 months
-- First resourcer to qualify for the quarterly club trip, which was an all expenses paid trip to Dubai for 4 days.
+
 
 #### March 2013 – May 2014
 Gap year – Travelling + part time employment whilst spending time with friends who I met on my travels.
@@ -110,15 +94,21 @@ Gap year – Travelling + part time employment whilst spending time with friends
 My role involved generating leads and building a client base, predominantly over the telephone.
 Upon establishing these relationships, I introduced new private individuals to investment opportunities in the FTSE 100, FTSE 250, AIM and pre IPO’S.
 
-#### Duties:
-- Excellent product Knowledge
-- Manage and build a client base Meet sales targets
-- Meet sales targets
-- Having team meeting and sharing best practice ideas with colleagues
-- Building a great rapport with customers
-- Matching the customer’s needs to the right product
-- Working as part of a sales team in a high pressured environment
+## Education
 
+#### FSA Qualifications:
+
+- FSA Financial Regulations
+- FSA Securities
+
+#### Caterham High School and 6th form 2001– 2007
+
+- 9 GCSEs- Grade A-C (Including - Maths, English and Science)
+
+#### AS Level:
+
+- Business 		Grade A
+- PE B-Tech		Grade Merit
 
 ## Other interests
 
