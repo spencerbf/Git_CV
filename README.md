@@ -16,6 +16,14 @@ Now that I have completed Makers Academy, I am looking for a Junior Developer ro
 
 Throughout my career I have worked in teams. I work well both within a team and as a standalone individual, using my initiative to complete the task at hand. I feel that I have extremely strong communication skills which have been developed by working in high pressured environments. I work very well under pressure. In all of my roles I have worked towards tight deadlines within target driven environments.
 
+## Projects
+
+ Project                                                               | Description   | Technology
+ -------------                                                         | ------------- |----------
+ BabelChat](https://github.com/spencerbf/BabelChat)                | An Instant translation multi-lingual messaging | Node.js, Express.js, MongoDB, Mocha/Chai/Zombie, Socket.io, React.js
+ [Thermostat](https://github.com/spencerbf/thermostat)              | Thermostat where can user can change the temperature | JavaScript, HTML5, Jasmine
+ [BookMark Manager](https://github.com/spencerbf/bookmark_manager/commits/master)               |Allows user to keep track of websites visted  | ruby, DataMapper, Sinatra, Rspec
+
 ## Experience
 
 
@@ -43,12 +51,10 @@ Focussed on test driven development (TDD) in object oriented programming (OOP) u
 #### Duties:
 
 - To provide 1st & 2nd line support to clients and internal brokers
-- Work closely with front office brokers, assisting with all queries and requirements including     general OTC trade input
 - Applying counter party trading limits and looking at confirmations within various internal systems
 - General management of all system static data
-- To maintain good working relationships with front office staff
-- To constantly review and improve processes to ensure that business flows are efficient and     accurate
-- Various other ad hoc tasks
+- To constantly review and improve processes to ensure that business flows are efficient and accurate
+
 
 #### May 2014 - March 2016
 #### Company:		Next-Ventures SAP and Software development recruiter
@@ -57,11 +63,7 @@ Focussed on test driven development (TDD) in object oriented programming (OOP) u
 #### Duties:
 - Business development
 - Assisting the recruitment team with finding and communicating with candidates for relevant positions within the SAP market
-- Negotiating rates with clients and candidates
-- Screening, interviewing and recommending candidates
-- Writing up job specs
 - Updating in-house database with new candidate skills and requirements
-- Marketing jobs to candidates
 
 
 #### March 2013 – May 2014
@@ -73,18 +75,11 @@ Gap year – Travelling + part time employment whilst spending time with friends
 #### POSITION:		BROKER/DESK ASSISTANT
 
 #### Duties:
-- Assisted team of 10-30 brokers
 - Covered banking clients for emerging markets
-- Cover client chats (Bloomberg)
-- Covered dollar Link to New York
 - Keep live client price screens up to date
 - Input and management of client trades using Markit Wire
 - Manage a team of 4 junior colleagues
-- Communicate with back and middle office team
-- Working well within a team
-- Working well in a High pressured environment
-- Record keeping
-- Communication skills
+
 
 #### July 2007 - September 2008
 
