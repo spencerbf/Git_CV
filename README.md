@@ -20,7 +20,7 @@ Throughout my career I have worked in teams. I work well both within a team and 
 
  Project                                                               | Description   | Technology
  -------------                                                         | ------------- |----------
- BabelChat](https://github.com/spencerbf/BabelChat)                | An Instant translation multi-lingual messaging | Node.js, Express.js, MongoDB, Mocha/Chai/Zombie, Socket.io, React.js
+ [BabelChat](https://github.com/spencerbf/BabelChat)                | An Instant translation multi-lingual messaging | Node.js, Express.js, MongoDB, Mocha/Chai/Zombie, Socket.io, React.js
  [Thermostat](https://github.com/spencerbf/thermostat)              | Thermostat where can user can change the temperature | JavaScript, HTML5, Jasmine
  [BookMark Manager](https://github.com/spencerbf/bookmark_manager/commits/master)               |Allows user to keep track of websites visted  | ruby, DataMapper, Sinatra, Rspec
 
@@ -50,11 +50,9 @@ Focussed on test driven development (TDD) in object oriented programming (OOP) u
 
 #### Duties:
 
-- To provide 1st & 2nd line support to clients and internal brokers
 - Applying counter party trading limits and looking at confirmations within various internal systems
 - General management of all system static data
 - To constantly review and improve processes to ensure that business flows are efficient and accurate
-
 
 #### May 2014 - March 2016
 #### Company:		Next-Ventures SAP and Software development recruiter
