@@ -1,8 +1,6 @@
 ## Spencer Barton-Fisher
 
-I am a confident ambitious individual. My interest and passion for the Tech industry started when I left the finance sector and moved into IT recruitment for around 18 months. I welcome new challenges which is one of the main reasons I enrolled at Makers Academy. The majority of my career has been within the financial sector where I have worked for two of the largest inter-dealer brokers in the world.
-
-Now that I have completed Makers Academy, I am looking for a Junior Developer role. I want to continue to learn on a daily basis within an organisation that loves developing great software. I would love to work for a company who will allow me to develop my skill set on a regular basis, working with the latest technologies and really allowing me to grow as a developer.
+I am a confident and ambitious Junior Developer. With a strong analytical mind, I have embarked on a career change where I can put my skills to better use. After recruiting software developers for 18 months, I became fascinated by the intricate details of the Development landscape. I decided to enrol at Makers Academy, a 12 week intensive bootcamp.  I have grown from someone with an interest in code, to someone who is incredibly passionate about writing clean code using best practices. I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team environment, where I can consolidate and extend my programming knowledge surrounded by like-minded professionals.
 
 ## Skills
 
@@ -27,6 +25,20 @@ Throughout my career I have worked in teams. I work well both within a team and 
 
 ## Experience
 
+#### August 2017 - Present
+
+#### Company:		Arcadia Technology
+#### Position:		Junior Software Engineer
+
+#### Technologies:
+JavaScript, HTML, CSS, SCSS, GIT, GULP, SmartFTP
+
+#### Duties:
+Working on tickets to make changes and improvements to Arcadia’s websites
+Bug fixes
+Deployment of code on a daily basis
+Communicating with the various different brands to meet business requirements
+Working well within a team
 
 #### May 2017 - July 2017
 
@@ -37,7 +49,6 @@ Makers Academy is Europe's leading Web Developer bootcamp. 
 Focussed on test driven development (TDD) in object oriented programming (OOP) using agile methodologies and git workflow.
 
 #### Duties:
-
 - Pair programming using XP techniques
 - Developing across the stack in ruby, JavaScript, Node, JQuery, AJAX and HTML and CSS
 - Deployment of web developed code using HTTP, Sinatra and Heroku
@@ -50,18 +61,18 @@ Focussed on test driven development (TDD) in object oriented programming (OOP) u
 #### Position:		Trade Support Analyst
 
 #### Duties:
-
 - Applying counter party trading limits and looking at confirmations within various internal systems
 - General management of all system static data
 - To constantly review and improve processes to ensure that business flows are efficient and accurate
 
 #### May 2014 - March 2016
+
 #### Company:		Next-Ventures SAP and Software development recruiter
-#### Position:		SAP Resourcer and Microsoft .NET Development Recruitment consultant
+#### Position:	SAP Resourcer and Microsoft .NET Development Recruitment consultant
 
 #### Duties:
 - Business development
-- Assisting the recruitment team with finding and communicating with candidates for relevant positions within the SAP market
+- Assisting the recruitment team with finding and communicating with candidates for relevant positions      within the SAP market
 - Updating in-house database with new candidate skills and requirements
 
 
