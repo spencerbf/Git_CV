@@ -34,11 +34,11 @@ Throughout my career I have worked in teams. I work well both within a team and 
 JavaScript, HTML, CSS, SCSS, GIT, GULP, SmartFTP
 
 #### Duties:
-Working on tickets to make changes and improvements to Arcadia’s websites
-Bug fixes
-Deployment of code on a daily basis
-Communicating with the various different brands to meet business requirements
-Working well within a team
+- Working on tickets to make changes and improvements to Arcadia’s websites
+- Bug fixes
+- Deployment of code on a daily basis
+- Communicating with the various different brands to meet business requirements
+- Working well within a team
 
 #### May 2017 - July 2017
 
